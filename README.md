@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 Observabilité des microservices
+#  Observabilité des microservices
 
 ### Spring Boot Actuator + Eureka
 
